@@ -16,8 +16,6 @@ I focus on writing clean, organized and maintainable code while continuously imp
 
 ## 🌐 Where to find me
 
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white https://github.com/GuilhermeSilva-06)]
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_USUARIO)
 [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gui.silva021007@gmail.com)
 
 ---
